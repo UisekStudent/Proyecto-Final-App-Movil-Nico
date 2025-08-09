@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TurnosMedicosApp</string>
+
+    <!-- Lista de médicos -->
+    <string-array name="medicos">
+        <item>Dr. Pérez</item>
+        <item>Dra. Gómez</item>
+        <item>Dr. Sánchez</item>
+    </string-array>
+
+    <!-- Horarios predeterminados -->
+    <string-array name="horarios">
+        <item>09:00 - 10:00</item>
+        <item>10:00 - 11:00</item>
+        <item>11:00 - 12:00</item>
+        <item>14:00 - 15:00</item>
+    </string-array>
+</resources>
